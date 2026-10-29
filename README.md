@@ -3,7 +3,7 @@ An interactive Power BI dashboard that analyses Super Store sales and profit acr
 
 ---
 
-##Project Overview
+## Project Overview
 The goal of this project is to turn raw retail transaction data into a clear, interactive view of business performance, so a manager can quickly see:
 - How much the store sells and earns, and how that changes month to month
 - Which regions, states, categories and sub-categories drive the most revenue
